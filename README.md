@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChapramUday
 - 👀 I’m interested in developing UIs
 - 🌱 I’m currently learning React.JS
-- 💞️ I’m looking to collaborate on Sri Fshion Designing
+-
 - 📫 How to reach me @chapramuday197@gmail.com & +91-8897684687
 
 <!---
